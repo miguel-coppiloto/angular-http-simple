@@ -1,0 +1,6 @@
+div[class*="col"] {
+    background-color: rgba(0, 255, 0, 0.3);
+    border: 1px green solid;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
